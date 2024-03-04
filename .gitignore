@@ -1,4 +1,18 @@
+# Ignore media files generally
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.mov
+
+# Do not ignore final media files for submission in media/ex1, media/ex2, and media/ex3
+!media/ex1/*
+!media/ex2/*
+!media/ex3/*
+
 *.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
