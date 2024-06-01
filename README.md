@@ -53,5 +53,12 @@ Exercises for submission to Scientific Computing class at UvA (MSc Computational
 
 <div style="padding: 20px; max-width: 90%;">
     <img src="media/ex3/animiation_eigvecs_circle_61x61_L=1x1_radius=0.5_k=4_which=SM.gif" alt="Circular drum" style="height: 200px;"/>
+    <img src="media/ex3/fd_matrix_5x5.png" alt="FD matrix for 5x5 system" style="height: 200px;"/>
+</div>
+
+#### Further analysis
+
+<div style="padding: 20px; max-width: 90%;">
     <img src="media/ex3/eigfreqs_distribution_comparison_discretization.png" alt="Eigenfrequency distribution by discretization N" style="height: 200px;"/>
+    <img src="media/ex3/time_and_memory_comparison.png" alt="Time and memory comparison" style="height: 200px;"/>
 </div>
