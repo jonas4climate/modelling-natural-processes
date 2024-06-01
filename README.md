@@ -13,39 +13,25 @@ Exercises for submission to Scientific Computing class at UvA (MSc Computational
 
 ### Some visual results
 
-<div style="display: flex; justify-content: center;">
-  <div style="padding: 10px; max-width: 45%;">
-    <img src="media/ex1/wave_equation.png" alt="Wave equation" style="height: 150px; width: 100%;"/>
-    <p align="center">Wave equation</p>
-  </div>
-  <div style="padding: 10px; max-width: 45%;">
-    <img src="media/ex1/animated_wave_1.gif" alt="Animated wave" style="height: 150px; width: 100%;"/>
-    <p align="center">Animated wave</p>
-  </div>
+#### Wave equation
+
+<div style="padding: 20px; max-width: 90%;">
+    <img src="media/ex1/wave_equation.png" alt="Wave equation" style="height: 150px;"/>
+    <img src="media/ex1/animated_wave_1.gif" alt="Animated wave" style="height: 150px;"/>
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <div style="padding: 10px; max-width: 45%;">
-    <img src="media/ex1/diffusion_at_different_times.png" alt="Diffusion through time" style="height: 150px; width: 100%;"/>
-    <p align="center">2D Diffusion at different time frames</p>
-  </div>
-  <div style="padding: 10px; max-width: 45%;">
-    <img src="media/ex1/2d_diffusion_until_equillibrium.gif" alt="Animated diffusion" style="height: 150px; width: 100%;"/>
-    <p align="center">Diffusion until equilibrium</p>
-  </div>
+#### Diffusion equation
+<div style="padding: 20px; max-width: 90%;">
+    <img src="media/ex1/diffusion_at_different_times.png" alt="Diffusion through time" style="height: 180px"/>
+    <img src="media/ex1/2d_diffusion_until_equillibrium.gif" alt="Animated diffusion" style="height: 180px;"/>
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <div style="padding: 10px; max-width: 45%;">
-    <img src="media/ex1/convergence_measure.png" alt="Diffusion through time" style="height: 150px; width: 100%;"/>
-    <p align="center">Convergence of Laplace solvers</p>
-  </div>
-  <div style="padding: 10px; max-width: 45%;">
-    <img src="media/ex1/laplace_comparison.png" alt="Laplace solvers analysis" style="height: 150px; width: 100%;"/>
-    <p align="center">Laplace numerical solver comparison</p>
-  </div>
-</div>
+#### Laplace solvers
 
+<div style="padding: 20px; max-width: 90%;">
+    <img src="media/ex1/convergence_measure.png" alt="Diffusion through time" style="height: 194px;"/>
+    <img src="media/ex1/laplace_comparison.png" alt="Laplace solvers analysis" style="height: 194px;"/>
+</div>
 
 ## Exercise Set 2
 1. Diffusion Limited Aggregation (DLA) using
